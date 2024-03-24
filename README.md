@@ -15,11 +15,11 @@ Crafted a stopwatch using HTML, CSS, and JavaScript. Now, you can effortlessly m
 - Timers: Regular intervals for updating time display.
 - Formatting: User-friendly time representation.
 
-Explore the live demo [Click here...](https://rishavy.github.io/PRODIGY_WD_02/)
+Explore the live demo [Click here...](https://github.com/shreyashsan/Stop-Watch.git)
 
 ## Getting Started
 
 - Clone the repository:
 
    ```bash
-   git clone https://github.com/rishavy/PRODIGY_WD_02.git
+   git clone https://github.com/shreyashsan/Stop-Watch.git
