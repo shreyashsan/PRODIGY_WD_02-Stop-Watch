@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="https://cdn.iconscout.com/icon/premium/png-256-thumb/stopwatch-3701359-3089846.png?f=webp">
+    
+    <title>Shreyas Stop-Watch</title>
+
+    <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="watch">
+            <div class="outer-circle">
+                <div class="inner-circle">
+                    <span class="text min">00 :</span>
+                    <span class="text sec">&nbsp;00 :</span>
+                    <span class="text msec">&nbsp;00</span>
+                </div>
+            </div>
+        </div>
+    <!-- Buttons -->
+        <div class="buttons">
+            <button class="resetbtn btn visibility">Reset</button>
+            <button class="playbtn btn">Start</button>
+            <button class="lapbtn btn visibility">Lap</button>
+        </div>
+        <ul class="laps">
+            <button class="clearbtn laptime">Clear</button>
+        </ul>
+    </div>
+    <script src="./script.js" defer></script>
+</body>
+</html>
